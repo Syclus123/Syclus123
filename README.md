@@ -6,7 +6,7 @@
 <br/>
 
 - 🚀  I want to put a ding in the universe.
-- 📚  I am preparing to apply for a master's degree in CS.
+- 📚  I am pursuing a Master's degree in CS.
 - 🎁  Passionate about coding, Formula 1, NBA, traveling, and sports.
 - 📧  [syclus71026@gmail.com](mailto:syclus71026@gmail.com).
 <br/>
