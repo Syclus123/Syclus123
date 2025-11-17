@@ -5,7 +5,6 @@
 ### ⛹️‍♂️ About Me .
 <br/>
 
-- 🚀  I want to put a ding in the universe.
 - 📚  I am pursuing a Master's degree in CS.
 - 🎁  Passionate about coding, Formula 1, NBA, traveling, and sports.
 <br/>
