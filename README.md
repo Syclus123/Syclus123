@@ -3,10 +3,9 @@
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 ### ⛹️‍♂️ About Me .
-<br/>
 - 📚  I am pursuing a Master's degree in CS.
 - 🎁  Passionate about coding, Formula 1, NBA, traveling, and sports.
-<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syclus123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
