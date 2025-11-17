@@ -4,7 +4,6 @@
 
 ### ⛹️‍♂️ About Me .
 <br/>
-
 - 📚  I am pursuing a Master's degree in CS.
 - 🎁  Passionate about coding, Formula 1, NBA, traveling, and sports.
 <br/>
